@@ -1,7 +1,7 @@
 <h1>Stakeholder-Memorandum</h1>
 
 <h2>Description</h2>
-In this lab, we were tasked with drafting a stakeholder memorandum to communicate critical findings and recommendations following an internal IT audit. In the memorandum we were to include scope and goals of the audit, signifigant findings, recommendations, and a summary/recommendations.
+In this lab, we were tasked with drafting a stakeholder memorandum to communicate critical findings and recommendations following an internal IT audit for Botium Toys. In the memorandum we were to include scope and goals of the audit, signifigant findings, recommendations, and a summary/recommendations.
 <br />
 
 # Stakeholder Memorandum
